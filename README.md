@@ -1,8 +1,8 @@
 # 🎬 Torrent Video Downloader & Compressor (Google Colab)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/prayogalazmi/torrent-video-downloader-compressor/blob/main/Torrent_Video_Downloader_%26_Compressor.ipynb
-)
+https://colab.research.google.com/github/prayogalazmi/torrent-video-downloader-compressor/blob/main/Torrent_Video_Downloader_%26_Compressor.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/prayogalazmi/torrent-video-downloader-compressor)
 
 This project is a **Google Colab notebook** designed to:
 - Download media directly from **torrent magnet links**
