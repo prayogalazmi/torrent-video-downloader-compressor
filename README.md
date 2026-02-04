@@ -20,7 +20,7 @@ Perfect for users who want a **simple, no-installation** workflow using Google C
   - 720p
   - 480p
   - 360p
-- 🎵 **Audio-only extraction** (e.g. MP3)
+- 🎵 **Audio-only extraction** (MP3)
 - ⚡ Runs entirely on **Google Colab**
 - 💾 Optional save to **Google Drive**
 
